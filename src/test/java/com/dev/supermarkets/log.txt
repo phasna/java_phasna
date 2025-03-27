@@ -38,3 +38,11 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
 [DATE: 2025-03-27 15:24:23] ERREUR: Échec du chargement des produits - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
 [DATE: 2025-03-27 15:24:23] ERREUR: Échec du chargement des commandes - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+[DATE: 2025-03-27 15:28:20] ERREUR: Échec de l'insertion du produit (name: Chips Lay's)
+[DATE: 2025-03-27 15:28:20] ERREUR: Échec du chargement des produits - Duplicate entry '1' for key 'products.PRIMARY'
+[DATE: 2025-03-27 15:28:20] ERREUR: Échec de l'insertion de la commande (order_id: 1)
+[DATE: 2025-03-27 15:28:20] ERREUR: Échec du chargement des commandes - Duplicate entry '1' for key 'orders.PRIMARY'
+[DATE: 2025-03-27 15:34:10] ERREUR: Échec de l'insertion du produit (name: Chips Lay's)
+[DATE: 2025-03-27 15:34:10] ERREUR: Échec du chargement des produits - Duplicate entry '1' for key 'products.PRIMARY'
+[DATE: 2025-03-27 15:34:10] ERREUR: Échec de l'insertion de la commande (order_id: 1)
+[DATE: 2025-03-27 15:34:10] ERREUR: Échec du chargement des commandes - Duplicate entry '1' for key 'orders.PRIMARY'
