@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class LogManager {
-    private static final String LOG_FILE = "src/log.txt";
+    private static final String LOG_FILE = "src/test/java/com/dev/supermarkets/log.txt";
 
     public static void log(String message) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(LOG_FILE, true))) {

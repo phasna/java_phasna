@@ -12,8 +12,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SupermarketService {
-    private static final String PRODUCTS_FILE = "src/test/java/com/dev/products.txt";
-    private static final String ORDERS_FILE = "src/test/java/com/dev/orders.txt";
+    private static final String PRODUCTS_FILE = "src/test/java/com/dev/supermarkets/products.txt";
+    private static final String ORDERS_FILE = "src/test/java/com/dev/supermarkets/orders.txt";
 
     // Charger les produits depuis products.txt et les insérer dans la BD
     public void loadProducts() {

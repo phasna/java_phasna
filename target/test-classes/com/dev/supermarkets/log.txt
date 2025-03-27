@@ -1,0 +1,40 @@
+[DATE: 2025-03-27 15:18:59] ERREUR: Échec du chargement des produits - src/test/java/com/dev/products.txt (No such file or directory)
+[DATE: 2025-03-27 15:18:59] ERREUR: Échec du chargement des commandes - src/test/java/com/dev/orders.txt (No such file or directory)
+[DATE: 2025-03-27 15:19:00] ERREUR: Problème lors de l'exécution - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:20:04] ERREUR: Échec de l'insertion du produit (name: Chips Lay's)
+[DATE: 2025-03-27 15:20:04] ERREUR: Échec du chargement des produits - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:20:04] ERREUR: Échec de l'insertion de la commande (order_id: 1)
+[DATE: 2025-03-27 15:20:04] ERREUR: Échec du chargement des commandes - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:20:04] ERREUR: Problème lors de l'exécution - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:22:43] ERREUR: Échec de l'insertion du produit (name: Chips Lay's)
+[DATE: 2025-03-27 15:22:43] ERREUR: Échec du chargement des produits - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:22:43] ERREUR: Échec de l'insertion de la commande (order_id: 1)
+[DATE: 2025-03-27 15:22:43] ERREUR: Échec du chargement des commandes - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:22:43] ERREUR: Problème lors de l'exécution - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:23:37] ERREUR: Échec de l'insertion du produit (name: Chips Lay's)
+[DATE: 2025-03-27 15:23:37] ERREUR: Échec du chargement des produits - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:23:37] ERREUR: Échec de l'insertion de la commande (order_id: 1)
+[DATE: 2025-03-27 15:23:37] ERREUR: Échec du chargement des commandes - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:23:37] ERREUR: Problème lors de l'exécution - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:24:23] ERREUR: Échec du chargement des produits - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+[DATE: 2025-03-27 15:24:23] ERREUR: Échec du chargement des commandes - Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null

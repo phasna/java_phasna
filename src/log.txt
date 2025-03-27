@@ -1,0 +1,20 @@
+[DATE: 2025-03-27 15:12:11] ERREUR: Échec du chargement des produits - src/test/java/com/dev/products.txt (No such file or directory)
+[DATE: 2025-03-27 15:12:11] ERREUR: Échec du chargement des commandes - src/test/java/com/dev/orders.txt (No such file or directory)
+[DATE: 2025-03-27 15:12:12] ERREUR: Problème lors de l'exécution - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:15:33] ERREUR: Échec du chargement des produits - src/test/java/com/dev/products.txt (No such file or directory)
+[DATE: 2025-03-27 15:15:33] ERREUR: Échec du chargement des commandes - src/test/java/com/dev/orders.txt (No such file or directory)
+[DATE: 2025-03-27 15:15:33] ERREUR: Problème lors de l'exécution - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:16:12] ERREUR: Échec du chargement des produits - src/test/java/com/dev/products.txt (No such file or directory)
+[DATE: 2025-03-27 15:16:12] ERREUR: Échec du chargement des commandes - src/test/java/com/dev/orders.txt (No such file or directory)
+[DATE: 2025-03-27 15:16:12] ERREUR: Problème lors de l'exécution - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DATE: 2025-03-27 15:18:19] ERREUR: Échec du chargement des produits - src/test/java/com/dev/products.txt (No such file or directory)
+[DATE: 2025-03-27 15:18:19] ERREUR: Échec du chargement des commandes - src/test/java/com/dev/orders.txt (No such file or directory)
+[DATE: 2025-03-27 15:18:19] ERREUR: Problème lors de l'exécution - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
