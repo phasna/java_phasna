@@ -23,6 +23,7 @@ public class Main {
                 System.out.println("4. Afficher les produits avec stock < 20");
                 System.out.println("5. Filtrer les produits par plage de prix");
                 System.out.println("6. Afficher les commandes récentes (moins d'1 an)");
+                System.out.println("7. Supprimer une commande");
                 System.out.println("0. Quitter");
                 System.out.print("Choisissez une option : ");
 
@@ -71,6 +72,12 @@ public class Main {
                         for (Order order : recentOrders) {
                             System.out.println("Order ID: " + order.getOrderId() + ", Date: " + order.getOrderDate());
                         }
+                        break;
+                    case 7:
+                        System.out.print("Entrez l'ID de la commande à supprimer : ");
+                        int orderIdToDelete = scanner.nextInt();
+                        scanner.nextLine(); // Consommer le retour à la ligne
+                        service.deleteOrderById(orderIdToDelete);
                         break;
                     case 0:
                         System.out.println("Fermeture du programme...");

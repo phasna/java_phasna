@@ -181,6 +181,24 @@ public class SupermarketService {
         return filtered;
     }
 
+    // Supprimer une commande par ID
+public void deleteOrderById(int orderId) throws SQLException {
+    String sql = "DELETE FROM orders WHERE order_id = ?";
+    try (Connection conn = DatabaseConnection.getConnection();
+         PreparedStatement stmt = conn.prepareStatement(sql)) {
+        stmt.setInt(1, orderId);
+        int rowsAffected = stmt.executeUpdate();
+        if (rowsAffected > 0) {
+            System.out.println("Commande supprimée avec succès (ID: " + orderId + ")");
+        } else {
+            System.out.println("Aucune commande trouvée avec l'ID: " + orderId);
+        }
+    } catch (SQLException e) {
+        LogManager.log("ERREUR: Impossible de supprimer la commande (ID: " + orderId + ")");
+        throw e;
+    }
+}
+
     // Filtrer les commandes récentes (moins de 1 an)
     public List<Order> filterRecentOrders() throws SQLException {
         List<Order> orders = getAllOrders();
