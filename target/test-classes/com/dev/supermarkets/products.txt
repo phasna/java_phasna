@@ -1,0 +1,10 @@
+1;Chips Lay's;Snack;1.50;50
+2;Fanta 1L;Beverages;2.00;30
+3;Coca-Cola 1L;Beverages;2.00;40
+4;Pain Baguette;Bakery;1.00;20
+5;Lait 1L;Dairy;0.90;15
+6;Beurre 250g;Dairy;2.50;25
+7;Sauce Tomate;Canned;1.20;30
+8;Barre Chocolatée;Snacks;1.00;40
+9;Fromage 200g;Dairy;2.20;35
+10;Oeufs (Boîte de 6);Poultry;2.40;10
